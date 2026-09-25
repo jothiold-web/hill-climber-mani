@@ -1,23 +1,39 @@
-# Hill Climb Moddy
+# Hill Climber Mani
 
-![Screenshot, driving on Countryside](./static/screenshots/1.png)
-![Screenshot, Upgrading in Garage](./static/screenshots/2.png)
-![Screenshot, Upgraded Car on Mountain](./static/screenshots/5.png)
+![Hill Climber Mani Driver Preview](./static/driver_car.png)
 
-This is a Hill Climb Racing Fanmade with **mod**ular upgrades and easy possibility for **mod**ding with its permissive [MIT](./LICENSE) License.
+A physics-based 2D driving game built with Godot Engine featuring procedural terrain, vehicle upgrades, collectible coins & gems, and custom character driver physics.
 
-# Credits
+---
 
-## Asset Packs
-- https://lucylavend.itch.io/physics-car-game-asset-pack
+## 🚗 Features
+- **Custom Driver Character**: Physics-driven ragdoll driver head that reacts dynamically to gravity, acceleration, and terrain collisions.
+- **Vehicle Customization & Upgrades**: Engine power, wheel size, suspension stability, fuel capacity, and center of mass adjustments in the Garage.
+- **Dynamic Terrain & Maps**: Multiple challenging levels including Countryside, Desert, Highway, Mountain, Cliff, and Nirvana.
+- **Collectibles**: Pick up fuel cans to stay moving, collect coins & gems for upgrades.
 
-## Sound Effects
-- Sound Effect by <a href="https://pixabay.com/de/users/universfield-28281460/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=121580">UNIVERSFIELD</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=121580">Pixabay</a> (Sped up)
-- Sound Effect from <a href="https://pixabay.com/sound-effects/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=87313">Pixabay</a> (Cropped)
-- Sound Effect from <a href="https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=33787">Pixabay</a>
-- Sound Effect by <a href="https://pixabay.com/de/users/soundreality-31074404/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=160387">Jurij</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=160387">Pixabay</a>
+---
 
-## Note
+## 🎮 Controls
 
-- Sound Effects have been normalized
-- Credits are available ingame
+| Action | Key / Input |
+| :--- | :--- |
+| **Accelerate / Tilt Back** | `D` / `Right Arrow` / Gas Pedal |
+| **Brake / Reverse / Tilt Forward** | `A` / `Left Arrow` / Brake Pedal |
+| **Pause** | `Esc` |
+
+---
+
+## 🛠️ Built With
+- **Godot Engine 4.2+** (GDScript)
+
+---
+
+## 📜 License
+This project is licensed under the [MIT License](./LICENSE).
+
+---
+
+## 🌟 Credits
+- **Asset Packs**: [lucylavend (Physics Car Game Asset Pack)](https://lucylavend.itch.io/physics-car-game-asset-pack)
+- **Sound Effects**: UNIVERSFIELD, Jurij via [Pixabay](https://pixabay.com/)
