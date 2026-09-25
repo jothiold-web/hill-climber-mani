@@ -124,10 +124,6 @@ offset_bottom = -16.0
 grow_horizontal = 0
 grow_vertical = 0
 
-[node name="ButtonCredits" type="Button" parent="CanvasLayerUI/HBoxContainerR"]
-layout_mode = 2
-text = "Credits"
-
 [node name="ButtonSourceCode" type="Button" parent="CanvasLayerUI/HBoxContainerR"]
 layout_mode = 2
 text = "Source Code"
@@ -135,5 +131,4 @@ text = "Source Code"
 [connection signal="pressed" from="CanvasLayerUI/ButtonQuit" to="." method="_on_button_quit_pressed"]
 [connection signal="pressed" from="CanvasLayerUI/HBoxContainerL/ButtonGarage" to="." method="_on_button_garage_pressed"]
 [connection signal="pressed" from="CanvasLayerUI/HBoxContainerL/ButtonShop" to="." method="_on_button_shop_pressed"]
-[connection signal="pressed" from="CanvasLayerUI/HBoxContainerR/ButtonCredits" to="." method="_on_button_credits_pressed"]
 [connection signal="pressed" from="CanvasLayerUI/HBoxContainerR/ButtonSourceCode" to="." method="_on_button_source_code_pressed"]
