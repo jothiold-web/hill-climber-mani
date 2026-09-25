@@ -32,8 +32,4 @@ A physics-based 2D driving game built with Godot Engine featuring procedural ter
 ## 📜 License
 This project is licensed under the [MIT License](./LICENSE).
 
----
 
-## 🌟 Credits
-- **Asset Packs**: [lucylavend (Physics Car Game Asset Pack)](https://lucylavend.itch.io/physics-car-game-asset-pack)
-- **Sound Effects**: UNIVERSFIELD, Jurij via [Pixabay](https://pixabay.com/)
